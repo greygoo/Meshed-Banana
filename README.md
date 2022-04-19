@@ -3,6 +3,11 @@
 
 # Meshed Banana
 
+</p>
+<p align="center" width="60%">
+  <img width="59%" src="images/case/Meshed_Banana/.jpg">
+</p>
+
 ## What is it?
 Meshed Banana is LoRa Router for the Reticulum Mesh protocol. It consists of a ESP32 LoRa device connected to a Banana Pi Zero M2 running the reticulum mesh network stack.
 
