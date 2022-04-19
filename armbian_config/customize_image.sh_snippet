@@ -1,0 +1,36 @@
+DEFAULT_USER=tempuser
+
+# Enable UART on GPIO for Banana Pi zero
+if [ $BOARD == bananapim2zero ]; then
+        /tmp/overlay/install_uart3_overlay.sh
+fi
+
+# Install Soundmodem
+/tmp/overlay/install_soundmodem.sh
+
+# Install Signal-server
+/tmp/overlay/install_signal_server.sh
+
+# Install signal server gui
+/tmp/overlay/install_signal_server_gui.sh $DEFAULT_USER
+
+# Install RNS modules
+sudo -u $DEFAULT_USER -H /tmp/overlay/install_python_modules.sh
+
+# Patch pyserial to recognice /dev/ttyS3
+sudo -u $DEFAULT_USER -H /tmp/overlay/patch_pyserial.sh
+
+# Install Nexus server
+sudo -u $DEFAULT_USER -H /tmp/overlay/install_nexus.sh
+
+# Copy direwolf config
+sudo -u $DEFAULT_USER -H cp /tmp/overlay/direwolf.conf /home/$DEFAULT_USER
+
+# Copy reticulum/nomadnet config
+sudo -u $DEFAULT_USER -H /tmp/overlay/install_rns_config.sh $BOARD
+
+# Copy the user dir to skel to make it available for new users
+/tmp/overlay/copy_skel.sh $DEFAULT_USER
+
+# Rmove user again
+/tmp/overlay/remove_user.sh $DEFAULT_USER

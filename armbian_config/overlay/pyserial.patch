@@ -1,0 +1,13 @@
+--- list_ports_linux.py 2022-04-14 12:47:53.123518183 +0000
++++ list_ports_linux.py.new     2022-04-12 21:35:59.598530429 +0000
+@@ -99,8 +99,8 @@
+     if include_links:
+         devices.extend(list_ports_common.list_links(devices))
+     return [info
+-            for info in [SysFS(d) for d in devices]
+-            if info.subsystem != "platform"]    # hide non-present internal serial ports
++            for info in [SysFS(d) for d in devices]]
++#            if info.subsystem != "platform"]    # hide non-present internal serial ports
+ 
+ # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ # test
