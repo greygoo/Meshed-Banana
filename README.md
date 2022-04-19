@@ -5,7 +5,7 @@
 
 </p>
 <p align="center" width="60%">
-  <img width="59%" src="images/case/Meshed_Banana/.jpg">
+  <img width="59%" src="images/case/Meshed_Banana.jpg">
 </p>
 
 ## What is it?
