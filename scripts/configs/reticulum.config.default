@@ -1,0 +1,43 @@
+[reticulum]
+  enable_transport = True 
+  share_instance = Yes
+  shared_instance_port = 37428
+  instance_control_port = 37429
+  panic_on_interface_error = No
+
+[logging]
+  loglevel = 4
+
+[interfaces]
+  
+  [[Default Interface]]
+    type = AutoInterface
+    interface_enabled = True
+
+  [[RNode LoRa Interface]]
+    type = RNodeInterface
+    interface_enabled = True 
+    outgoing = true
+    port = /dev/ttyACM0
+    frequency = 867200000
+    bandwidth = 125000
+    txpower = 7
+    spreadingfactor = 8
+    codingrate = 5
+    # id_callsign = MYCALL-0
+    # id_interval = 600
+    flow_control = False
+
+# Test server for connecting over TCP/IP:
+  [[RNS Testnet Frankfurt]]
+    type = TCPClientInterface
+    interface_enabled = yes
+    outgoing = True
+    target_host = frankfurt.rns.unsigned.io
+    target_port = 4965
+
+# For connecting over I2P:
+#  [[RNS Testnet I2P Node A]]
+#   type = I2PInterface
+#   interface_enabled = yes
+#   peers = ykzlw5ujbaqc2xkec4cpvgyxj257wcrmmgkuxqmqcur7cq3w3lha.b32.i2p
