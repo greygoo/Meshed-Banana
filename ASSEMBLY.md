@@ -46,7 +46,7 @@ This is just an illustrated guide on how to best pack the electronics in the 3D 
   <img width="49%" src="images/build/Step7.jpg">
 </p>
 
-8. Place the Banana Pi Zero in the middle case part.
+8. Place the Banana Pi Zero in the middle case part. Lead the antenna cable through the gap and plug it into the Banana Pi Zero
 </p>
 <p align="left" width="60%">
   <img width="49%" src="images/build/Step8.jpg">
