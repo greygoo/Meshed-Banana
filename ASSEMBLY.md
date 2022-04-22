@@ -34,7 +34,7 @@ This is just an illustrated guide on how to best pack the electronics in the 3D 
   <img width="49%" src="images/assembly/Step5.jpg">
 </p>
 
-6. Connect the Banana Pi Zero to the LoRa32 module and place it in the case as shown in the picture.
+6. Connect the Banana Pi Zero to the LoRa32 module and place the connector in the case as shown in the picture.
 </p>
 <p align="left" width="60%">
   <img width="49%" src="images/assembly/Step6.jpg">
