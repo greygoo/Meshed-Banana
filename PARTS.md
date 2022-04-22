@@ -61,18 +61,18 @@
 
 ## Screws
 
-2x M2 x 5mm
-4x M2.5 x 5mm
-2x M3 x 18mm
+2x M2 x 5mm<br>
+4x M2.5 x 5mm<br>
+2x M3 x 18mm<br>
 2x M3 x 25mm
 
 
 ## Wires
 
-Each approx. 30cm:
-1 x Red
-1 x Black
-1 x Green
-1 x  Blue
+Each approx. 30cm:<br>
+1 x Red<br>
+1 x Black<br>
+1 x Green<br>
+1 x Blue<br>
 
 
