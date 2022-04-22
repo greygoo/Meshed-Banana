@@ -18,7 +18,7 @@
 **Source** https://www.ebay.de/itm/164396959192<br>
 **Frequency** 868 Mhz<br>
 
-<p align="center" width="60%">
+<p align="left" width="60%">
   <img width="49%" src="images/parts/T3_front.jpg">
   <img width="49%" src="images/parts/T3_back.jpg">
 </p>
@@ -29,7 +29,7 @@
 **Name** 2.4GHz WIFI antenna SMA Female<br>
 **Source** https://www.ebay.de/itm/183989745716<br>
 
-<p align="center" width="60%">
+<p align="left" width="60%">
   <img width="49%" src="images/parts/antenna.jpg">
 </p>
 
@@ -39,7 +39,7 @@
 **Name** RP-SMA(Male) to IPEX/U.FL Pigtail Cable<br>
 **Source** https://www.ebay.de/itm/265495161098<br>
 
-<p align="center" width="60%">
+<p align="left" width="60%">
   <img width="49%" src="images/parts/antenna_cable.jpg">
 </p>
 
@@ -48,13 +48,13 @@
 
 1x Dupont connector female (6 pin)<br>
 
-<p align="center" width="60%">
+<p align="left" width="60%">
   <img width="49%" src="images/parts/Dupont.jpg">
 </p>
 
 1x JST SM connector female (4 pin)<br>
 1x JST SM connector male (4 pin)
-<p align="center" width="60%">
+<p align="left" width="60%">
   <img width="49%" src="images/parts/JST-SM.jpg">
 </p>
 
