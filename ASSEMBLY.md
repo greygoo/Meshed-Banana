@@ -34,13 +34,13 @@ This is just an illustrated guide on how to best pack the electronics in the 3D 
   <img width="49%" src="images/assembly/Step5.jpg">
 </p>
 
-6. Connect the Banana Pi Zero to the LoRa32 module and place the connector in the case as shown in the picture.
+6. Connect the Banana Pi Zero to the LoRa32 module and place the JST-SM connector in the case as shown in the picture.
 </p>
 <p align="left" width="60%">
   <img width="49%" src="images/assembly/Step6.jpg">
 </p>
 
-7. Put the debug connector in the slot between top and middle case parts (It should be held in place once scrws are tightened).
+7. Put the Dupont debug connector in the slot between top and middle case parts (It should be held in place once screws are tightened).
 </p>
 <p align="left" width="60%">
   <img width="49%" src="images/assembly/Step7.jpg">
@@ -66,10 +66,10 @@ This is just an illustrated guide on how to best pack the electronics in the 3D 
 
 11. One of:
   - Attach an serial<->USB adapter to the debug port and connect it via USB with your PC.
-  - Connect a monitopr via the HDMI port.
+  - Connect a monitor via the HDMI port.
 </p>
 <p align="left" width="60%">
   <img width="49%" src="images/assembly/Step11.jpg">
 </p>
 
-Continue with [Setting up the System][SETUP.md]
+Continue with [Setting up the System](SETUP.md)
