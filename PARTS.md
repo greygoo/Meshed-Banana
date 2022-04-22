@@ -61,10 +61,10 @@
 
 ## Screws
 
-2x M2 x 5mm<br>
-4x M2.5 x 5mm<br>
-2x M3 x 18mm<br>
-2x M3 x 25mm
+2 x M2 x 5mm<br>
+4 x M2.5 x 5mm<br>
+2 x M3 x 18mm<br>
+2 x M3 x 25mm
 
 
 ## Wires
