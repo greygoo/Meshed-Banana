@@ -2,14 +2,14 @@
 
 This is just an illustrated guide on how to best pack the electronics in the 3D printed case.
 
-1. Screw the Banana Pi Zero into its frame using 2.5mm screws.
+1. Screw the LoRa32 module in its frame using 2mm screws.
 </p>
 <p align="left" width="60%">
   <img width="49%" src="images/assembly/Step1a.jpg">
   <img width="49%" src="images/assembly/Step1b.jpg">
 </p>
 
-2. Screw the LoRa32 module in its frame using 2mm screws.
+2. Screw the Banana Pi Zero into its frame using 2.5mm screws.
 </p>
 <p align="left" width="60%">
   <img width="49%" src="images/assembly/Step2a.jpg">
