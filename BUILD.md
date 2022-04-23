@@ -12,7 +12,7 @@
 
 <p align="left" width="60%">
   <img width="49%" src="images/build/Step1a.jpg">
-  <img width="49%" src="images/build/Step1b.jpg">
+  <img width="49%" src="images/build/Step1b.png">
 </p>
 
 
@@ -20,7 +20,7 @@
 
 <p align="left" width="60%">
   <img width="49%" src="images/build/Step2a.jpg">
-  <img width="49%" src="images/build/Step2b.jpg">
+  <img width="49%" src="images/build/Step2b.png">
 </p>
 
 
@@ -28,7 +28,7 @@
 
 <p align="left" width="60%">
   <img width="49%" src="images/build/Step3a.jpg">
-  <img width="49%" src="images/build/Step3b.jpg">
+  <img width="49%" src="images/build/Step3b.png">
 </p>
 
 
