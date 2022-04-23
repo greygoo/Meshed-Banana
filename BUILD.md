@@ -51,3 +51,6 @@
 <p align="left" width="60%">
   <img width="49%" src="images/build/Step6.jpg">
 </p>
+
+
+Continue with the [Assembly of the case](ASSEMBLY.md)

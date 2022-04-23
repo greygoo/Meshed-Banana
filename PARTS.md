@@ -69,10 +69,16 @@
 
 ## Wires
 
-Each approx. 30cm:<br>
+Approx. 10cm:<br>
 1 x Red<br>
 1 x Black<br>
 1 x Green<br>
 1 x Blue<br>
 
+Approx. 4cm:<br>
+1 x Red<br>
+2 x Black<br>
+2 x Green<br>
+2 x Blue<br>
 
+Continue with [soldering in the wires](BUILD.md)
