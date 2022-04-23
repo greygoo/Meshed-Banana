@@ -1,6 +1,5 @@
 # Assembly
 
-This is just an illustrated guide on how to best pack the electronics in the 3D printed case.
 
 1. Screw the LoRa32 module in its frame using 2mm screws.
 </p>
